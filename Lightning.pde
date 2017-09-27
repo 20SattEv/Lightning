@@ -5,7 +5,7 @@ Player wizard;
 void setup() {
   size(500, 500);
   background(255, 255, 200);
-  img = loadImage("stickMan.png");
+  img = loadImage("data/stickMan.png");
   wizard=new Player();
 }
 
